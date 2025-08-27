@@ -1,0 +1,2 @@
+# Token bot dari BotFather
+BOT_TOKEN = "8332677116:AAFI92708Ijc7tilnJQJPs51RP5o455KZVQ"
