@@ -1,0 +1,10 @@
+python-telegram-bot==20.3
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+pandas==2.1.1
+urllib3==2.0.4
+aiohttp==3.8.5
+scapy==2.5.0
+shodan==1.29.0
+dnspython==2.4.2
